@@ -1,75 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Roger%20F5&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Roger%20F5&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-### 👨‍💻 Sobre mí
+<br>
 
-Soy **Ingeniero de Sistemas** y **Pentester** especializado en seguridad ofensiva, desarrollo seguro y auditoría técnica. Mi enfoque combina la ingeniería de software con la ciberseguridad, creando herramientas de **Python (GUI)** personalizadas para pruebas de penetración y análisis forense.
+### 👨‍💻 Perfil Profesional
 
-* 🔭 Actualmente trabajando en: **AuditRF** (Suite de Reconocimiento y Forense) y **Flipper Asset Maker**.
-* 🛡️ Certificaciones: **CPTE | CPEH | CCEP**.
-* 🔌 Hardware Hacking: Entusiasta de **Flipper Zero, Hak5, ESP32**.
-* ⚡ Enfoque: Desarrollo de herramientas ofensivas con interfaces gráficas modernas (Tkinter/CustomTkinter).
+Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. 
+Especializado en el ciclo de vida completo de pruebas de intrusión, desde el reconocimiento hasta la explotación y post-explotación controlada.
 
+* 🔐 **Core:** Seguridad Ofensiva, Desarrollo Seguro, Auditoría Técnica.
+* 🐍 **Desarrollo:** Creación de herramientas de Ciberseguridad en Python (Automatización + GUI).
+* 🛠️ **Hardware Hacking:** Investigación y desarrollo sobre Flipper Zero, ESP32 y RF.
+* 📜 **Credenciales:** CPTE | CPEH | CCEP.
+
+---
+
+### 📈 Métricas y Actividad
+
+<p align="center">
+  <img src="./profile-summary-card-output/solarized_dark/0-profile-details.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg" width="48%">
+  <img src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" width="48%">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/solarized_dark/3-stats.svg" width="48%">
+  <img src="./profile-summary-card-output/solarized_dark/4-productive-time.svg" width="48%">
+</p>
 ---
 
 ### 🛠️ Arsenal Técnico
 
-**Lenguajes & Scripting**
+**Reconocimiento & Escaneo de Vulnerabilidades**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Scanners-blue?style=for-the-badge&logo=nmap&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Nuclei-Automation-blue?style=for-the-badge&logo=nuclei&logoColor=white&color=0055ff" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Proxy-blue?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633" />
+  <img src="https://img.shields.io/badge/Wireshark-Forensics-blue?style=for-the-badge&logo=wireshark&logoColor=white&color=1679A7" />
+  <img src="https://img.shields.io/badge/Metasploit-Framework-blue?style=for-the-badge&logo=metasploit&logoColor=white&color=333333" />
 </p>
 
-**Ciberseguridad & Pentesting**
+**Desarrollo Ofensivo & Scripting**
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Development-blue?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25" />
+  <img src="https://img.shields.io/badge/Git-Versioning-blue?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
 </p>
 
-**Desarrollo & Herramientas**
+**Hardware Hacking & RF**
 <p>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flipper_Zero-Tools-blue?style=for-the-badge&logo=flipperzero&logoColor=white&color=E88100" />
+  <img src="https://img.shields.io/badge/Espressif-ESP32-blue?style=for-the-badge&logo=espressif&logoColor=white&color=E7352C" />
 </p>
 
 ---
-
-### 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **AuditRF** | Suite integral para reconocimiento y forense digital. | Python, Scapy |
-| **Flipper Asset Maker** | Herramienta para generar assets visuales para Flipper Zero. | Python, PIL |
-| **IP to OS** | Identificación de SO basada en TTL y escaneo de puertos. | Python, Socket |
-| **eFootball Stats** | Tracker de estadísticas y meta-análisis de jugadores. | Python, Pandas |
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/RogerF5-Security">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerF5-Security&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerF5-Security&layout=compact&theme=dark"/>
-</a>
+  <a href="https://www.linkedin.com/in/rogerf5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
+  </a>
+  <a href="https://www.youtube.com/@ROGERF5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-blue?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />
+  </a>
 </div>
-
----
-
-### 📡 Conecta conmigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rogerf5/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rogerf5" />
-</a>
-<a href="https://www.youtube.com/@ROGERF5" target="blank">
-  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ROGERF5" />
-</a>
-</p>
