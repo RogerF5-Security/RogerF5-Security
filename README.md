@@ -44,7 +44,7 @@ Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. M
 ---
 
 ### 🚀 Featured Tool: RF5 RECON
-*Browser Extension for OSINT & Reconnaissance*
+*Browser Extension*
 
 | Chrome Web Store | Firefox Add-Ons |
 | :---: | :---: |
@@ -90,17 +90,7 @@ Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. M
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=RogerF5-Security&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=ffffff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerF5-Security&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=ffffff" height="150" alt="languages graph" />
-</div>
-
----
-
-### 📺 Roger F5 Content
-
-| Hardware & Automation | Kali & Blue Team |
+### 📺 Roger F5  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ROGERF5)
 | :---: | :---: |
 | <a href="https://www.youtube.com/watch?v=h4qC4S8p7FY" target="_blank"><img src="https://img.youtube.com/vi/h4qC4S8p7FY/0.jpg" width="100%" alt="Arduino con ChatGPT" /></a> | <a href="https://www.youtube.com/watch?v=ifDqZuoZDHc" target="_blank"><img src="https://img.youtube.com/vi/ifDqZuoZDHc/0.jpg" width="100%" alt="Kali Purple" /></a> |
 | **Arduino + ChatGPT Melody** | **¿Qué es Kali Purple?** |
