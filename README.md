@@ -33,15 +33,30 @@
 
 <br>
 
+
 ### >_ Whoami
 
-Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. Me especializo en el desarrollo de herramientas de ciberseguridad a medida, automatización de ataques controlados y auditoría de hardware.
-
-- 🛡️ **Core:** Seguridad Ofensiva, Pruebas de Intrusión (Pentesting), Desarrollo Seguro.
-- 🛠️ **Hardware Hacking:** Investigación avanzada en **Flipper Zero**, **M5StickC Plus 2**, **Rubber Ducky**.
-- 📜 **Certificaciones:** CPTE | CPEH | CCEP.
-
----
+```bash
+┌──(rogerf5㉿kali)-[~/profile]
+└─$ cat info.txt
+[+] USER: Roger F5
+[+] ROLE: Ingeniero de Sistemas & Auditor de Seguridad Ofensiva (Pentester)
+[+] FOCUS: Desarrollo de herramientas, Automatización & Hardware Hacking
+[*] CORE:
+    ├── Seguridad Ofensiva & Pentesting
+    ├── Desarrollo de Herramientas (Python/GUI)
+    └── Auditoría de Hardware
+[*] HARDWARE ARSENAL:
+    ├── Flipper Zero
+    ├── M5StickC Plus 2
+    ├── Marauder
+    ├── Rubber Ducky
+    └── And more...
+[*] MAIN CERTS:
+    └── CPTE | CPEH | CCEP
+┌──(rogerf5㉿kali)-[~/profile]
+└─$ █
+```
 
 ### 🚀 Featured Tool: RF5 RECON
 *Browser Extension*
@@ -91,6 +106,7 @@ Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. M
 ---
 
 ### 📺 Roger F5  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ROGERF5)
+| Hardware & Automation | Kali  |
 | :---: | :---: |
 | <a href="https://www.youtube.com/watch?v=h4qC4S8p7FY" target="_blank"><img src="https://img.youtube.com/vi/h4qC4S8p7FY/0.jpg" width="100%" alt="Arduino con ChatGPT" /></a> | <a href="https://www.youtube.com/watch?v=ifDqZuoZDHc" target="_blank"><img src="https://img.youtube.com/vi/ifDqZuoZDHc/0.jpg" width="100%" alt="Kali Purple" /></a> |
 | **Arduino + ChatGPT Melody** | **¿Qué es Kali Purple?** |
