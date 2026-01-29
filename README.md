@@ -1,22 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Roger%20F5&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlign=50" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Roger+F5;Pentester+%26+Security+Auditor;Python+Tool+Developer;Hardware+Hacking+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rogerf5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@ROGERF5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </div>
 
 <br>
 
 ### 👨‍💻 Perfil Profesional
 
-Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. 
-Especializado en el ciclo de vida completo de pruebas de intrusión, desde el reconocimiento hasta la explotación y post-explotación controlada.
+Soy **Ingeniero de Sistemas** y **Auditor de Seguridad Ofensiva (Pentester)**. Me especializo en crear mis propias herramientas de ataque y auditoría, saliendo del script convencional para desarrollar soluciones a medida en **Python**.
 
-* 🔐 **Core:** Seguridad Ofensiva, Desarrollo Seguro, Auditoría Técnica.
-* 🐍 **Desarrollo:** Creación de herramientas de Ciberseguridad en Python (Automatización + GUI).
-* 🛠️ **Hardware Hacking:** Investigación y desarrollo sobre Flipper Zero, ESP32 y RF.
-* 📜 **Credenciales:** CPTE | CPEH | CCEP.
+* 🔭 **Actualmente:** Desarrollando **AuditRF** y herramientas para **Flipper Zero**.
+* 🛡️ **Enfoque:** Seguridad Ofensiva, Pruebas de Intrusión (Pentesting), Desarrollo Seguro.
+* 🛠️ **Hardware:** Investigación activa en RF (Radiofrecuencia) con ESP32 y NRF24.
+* 📜 **Certificaciones:** CPTE | CPEH | CCEP.
 
 ---
 
-### 📈 Métricas y Actividad
+### 📊 Métricas de GitHub
 
 <p align="center">
   <img src="./profile-summary-card-output/solarized_dark/0-profile-details.svg" width="100%">
@@ -27,44 +37,39 @@ Especializado en el ciclo de vida completo de pruebas de intrusión, desde el re
   <img src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" width="48%">
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/solarized_dark/3-stats.svg" width="48%">
-  <img src="./profile-summary-card-output/solarized_dark/4-productive-time.svg" width="48%">
-</p>
 ---
 
 ### 🛠️ Arsenal Técnico
 
-**Reconocimiento & Escaneo de Vulnerabilidades**
+**Reconocimiento & Ataque**
 <p>
-  <img src="https://img.shields.io/badge/Nmap-Scanners-blue?style=for-the-badge&logo=nmap&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/Nuclei-Automation-blue?style=for-the-badge&logo=nuclei&logoColor=white&color=0055ff" />
-  <img src="https://img.shields.io/badge/Burp_Suite-Proxy-blue?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633" />
-  <img src="https://img.shields.io/badge/Wireshark-Forensics-blue?style=for-the-badge&logo=wireshark&logoColor=white&color=1679A7" />
-  <img src="https://img.shields.io/badge/Metasploit-Framework-blue?style=for-the-badge&logo=metasploit&logoColor=white&color=333333" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-0055FF?style=for-the-badge&logo=nuclei&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-**Desarrollo Ofensivo & Scripting**
+**Desarrollo & Scripting**
 <p>
-  <img src="https://img.shields.io/badge/Python-Development-blue?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25" />
-  <img src="https://img.shields.io/badge/Git-Versioning-blue?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-**Hardware Hacking & RF**
+**Hardware Hacking**
 <p>
-  <img src="https://img.shields.io/badge/Flipper_Zero-Tools-blue?style=for-the-badge&logo=flipperzero&logoColor=white&color=E88100" />
-  <img src="https://img.shields.io/badge/Espressif-ESP32-blue?style=for-the-badge&logo=espressif&logoColor=white&color=E7352C" />
+  <img src="https://img.shields.io/badge/Flipper_Zero-E88100?style=for-the-badge&logo=flipperzero&logoColor=white" />
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rogerf5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
-  </a>
-  <a href="https://www.youtube.com/@ROGERF5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-blue?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />
-  </a>
-</div>
+### 📺 Últimos Videos (Canal RogerF5)
+
+| Hardware Hacking | Python Security Tools |
+| :---: | :---: |
+| <a href="https://www.youtube.com/@ROGERF5"><img src="https://img.youtube.com/vi/TU_VIDEO_ID_1/mqdefault.jpg" width="100%"></a> | <a href="https://www.youtube.com/@ROGERF5"><img src="https://img.youtube.com/vi/TU_VIDEO_ID_2/mqdefault.jpg" width="100%"></a> |
+| **Intro al Flipper Zero** | **Python para Pentesters** |
