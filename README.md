@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3D39FF14%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DRoger%2BF5%3BPentester%2B%2526%2BSecurity%2BAuditor%3BPython%2BTool%2BDeveloper%3BHardware%2BHacking%2BEnthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Roger+F5;Pentester+%26+Security+Auditor;Python+Tool+Developer;Hardware+Hacking+Enthusiast" alt="Typing SVG" />
 </a>
 </div>
 
@@ -78,8 +78,8 @@ Hardware Hacking & RF
 
 <p>
 <img src="https://img.shields.io/badge/Flipper_Zero-E88100?style=for-the-badge&logo=flipperzero&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rubber_Ducky-Hak5-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Dusb%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/M5StickC_Plus2-323232%3Fstyle%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dorange" />
+<img src="https://img.shields.io/badge/Rubber_Ducky-Hak5-F7DF1E?style=for-the-badge&logo=usb&logoColor=black" />
+<img src="https://img.shields.io/badge/M5StickC_Plus2-323232?style=for-the-badge&logo=espressif&logoColor=orange" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
@@ -89,9 +89,9 @@ Hardware & Automation
 
 Kali & Blue Team
 
-<a href="https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3Dh4qC4S8p7FY" target="_blank"><img src="https://www.google.com/search?q=https://img.youtube.com/vi/h4qC4S8p7FY/0.jpg" width="100%" alt="Arduino con ChatGPT" /></a>
+<a href="https://www.youtube.com/watch?v=h4qC4S8p7FY" target="_blank"><img src="https://img.youtube.com/vi/h4qC4S8p7FY/0.jpg" width="100%" alt="Arduino con ChatGPT" /></a>
 
-<a href="https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DifDqZuoZDHc" target="_blank"><img src="https://www.google.com/search?q=https://img.youtube.com/vi/ifDqZuoZDHc/0.jpg" width="100%" alt="Kali Purple" /></a>
+<a href="https://www.youtube.com/watch?v=ifDqZuoZDHc" target="_blank"><img src="https://img.youtube.com/vi/ifDqZuoZDHc/0.jpg" width="100%" alt="Kali Purple" /></a>
 
 Arduino + ChatGPT Melody
 
