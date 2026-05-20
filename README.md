@@ -51,6 +51,9 @@
     ├── M5StickC Plus 2
     ├── Marauder
     ├── Rubber Ducky
+    ├── WiFi Pineapple
+    ├── Chameleon Ultra
+    ├── Ubertooth One
     └── And more...
 [*] MAIN CERTS:
     └── CPTE | CPEH | CCEP
