@@ -42,7 +42,7 @@
 
 ```bash
 ┌──(rogerf5㉿kali)-[~/operator]
-└─$ whoami --full
+└─$ whoami 
 
 [+] IDENTITY : Roger Arana
 [+] HANDLE   : Roger F5
@@ -61,40 +61,8 @@
 [*] CERTS:
     └── CPTE | CPEH | CCEP
 
-┌──(rogerf5㉿kali)-[~/operator]
-└─$ █
 ```
 
-### >_ Offensive Workflow
-
-```bash
-┌──(rogerf5㉿kali)-[~/ops]
-└─$ ./engagement-flow.sh
-
-[01] RECON
-     ├── Asset discovery
-     ├── Fingerprinting
-     ├── Endpoint mapping
-     └── Attack surface profiling
-
-[02] VALIDATION
-     ├── Manual verification
-     ├── False-positive reduction
-     ├── Controlled exploitation
-     └── Evidence collection
-
-[03] AUTOMATION
-     ├── Python security tooling
-     ├── Nmap, Nuclei, ZAP and Burp integrations
-     ├── Excel / HTML / JSON reporting pipelines
-     └── Repeatable audit workflows
-
-[04] HARDWARE LABS
-     ├── Flipper Zero research
-     ├── NFC/RFID assessment
-     ├── WiFi and RF testing
-     └── HID payload and embedded-device experiments
-```
 
 ### >_ Featured Tool: RF5 RECON
 
