@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=720&lines=Roger+F5;Roger+Arana;Pentester+%26+Security+Auditor;Python+Tool+Developer;Hardware+Hacking+%26+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=39FF14&center=true&vCenter=true&width=820&lines=Roger+F5;Offensive+Security+Operator;Pentester+%7C+Security+Auditor;Python+Toolsmith;Hardware+Hacking+%26+Recon+Automation" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -38,74 +38,67 @@
 
 <br>
 
-### >_ Whoami
+### >_ Access Granted
 
 ```bash
-┌──(rogerf5㉿kali)-[~/profile]
-└─$ cat info.txt
+┌──(rogerf5㉿kali)-[~/operator]
+└─$ whoami --full
 
-[+] NAME: Roger Arana
-[+] ALIAS: Roger F5
-[+] ROLE: Ingeniero de Sistemas | Pentester | Auditor de Seguridad Ofensiva
-[+] FOCUS: Offensive Security, Python Automation, Hardware Hacking & Security Tooling
+[+] IDENTITY : Roger Arana
+[+] HANDLE   : Roger F5
+[+] ROLE     : Ingeniero de Sistemas | Pentester | Auditor de Seguridad Ofensiva
+[+] MODE     : Authorized offensive security | Tool development | Hardware hacking
+[+] MISSION  : Recon faster, validate deeper, report cleaner, harden smarter
 
-[*] CORE:
-    ├── Pentesting Web, Infraestructura y Redes
-    ├── Desarrollo de herramientas ofensivas y defensivas en Python
-    ├── Automatización de reconocimiento, escaneo y reporting
-    ├── Auditoría de hardware, RF, IoT y dispositivos físicos
-    └── Investigación aplicada en ciberseguridad
+[*] SPECIALTIES:
+    ├── Web, network and infrastructure pentesting
+    ├── Vulnerability validation and exploitation labs
+    ├── Python automation for reconnaissance and reporting
+    ├── Custom offensive tooling: CLI, GUI and browser extensions
+    ├── RF, NFC/RFID, HID and portable hardware security labs
+    └── Technical content focused on practical cybersecurity
 
-[*] HARDWARE ARSENAL:
-    ├── Flipper Zero
-    ├── M5StickC Plus 2
-    ├── Marauder
-    ├── Rubber Ducky
-    ├── WiFi Pineapple
-    ├── Chameleon Ultra
-    ├── Ubertooth One
-    └── Custom offensive labs
-
-[*] MAIN CERTS:
+[*] CERTS:
     └── CPTE | CPEH | CCEP
 
-[*] VERIFIED PROFILE:
-    └── Credly: https://www.credly.com/users/roger-arana
-
-┌──(rogerf5㉿kali)-[~/profile]
+┌──(rogerf5㉿kali)-[~/operator]
 └─$ █
 ```
 
-### >_ Operational Focus
+### >_ Offensive Workflow
 
 ```bash
 ┌──(rogerf5㉿kali)-[~/ops]
-└─$ ./focus.sh
+└─$ ./engagement-flow.sh
 
-[01] Offensive Security
-     ├── Web application security testing
-     ├── Network and infrastructure assessment
-     ├── Vulnerability validation
-     └── Exploitation in controlled environments
+[01] RECON
+     ├── Asset discovery
+     ├── Fingerprinting
+     ├── Endpoint mapping
+     └── Attack surface profiling
 
-[02] Security Automation
-     ├── Python CLI tools
-     ├── Custom GUI tools
-     ├── Recon automation
-     ├── Report generation
-     └── Integration with Nmap, Nuclei, ZAP, Burp Suite and other tooling
+[02] VALIDATION
+     ├── Manual verification
+     ├── False-positive reduction
+     ├── Controlled exploitation
+     └── Evidence collection
 
-[03] Hardware Hacking
-     ├── RF analysis
-     ├── NFC/RFID testing
-     ├── HID and payload devices
-     ├── Flipper Zero tooling
-     └── Embedded and portable security labs
+[03] AUTOMATION
+     ├── Python security tooling
+     ├── Nmap, Nuclei, ZAP and Burp integrations
+     ├── Excel / HTML / JSON reporting pipelines
+     └── Repeatable audit workflows
+
+[04] HARDWARE LABS
+     ├── Flipper Zero research
+     ├── NFC/RFID assessment
+     ├── WiFi and RF testing
+     └── HID payload and embedded-device experiments
 ```
 
 ### >_ Featured Tool: RF5 RECON
 
-*Browser extension for reconnaissance and security workflow acceleration.*
+*Browser extension built for fast reconnaissance and security workflow acceleration.*
 
 | Chrome Web Store | Firefox Add-Ons |
 | :---: | :---: |
@@ -113,7 +106,7 @@
 
 ---
 
-### >_ Skills
+### >_ Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -152,19 +145,20 @@
 
 ---
 
-### >_ Verification & Certifications
-
-<a href="https://www.credly.com/users/roger-arana">
-  <img src="https://img.shields.io/badge/View_Certifications_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View certifications on Credly" />
-</a>
+### >_ Hardware Arsenal
 
 ```bash
-┌──(rogerf5㉿kali)-[~/certs]
-└─$ cat verified.txt
+┌──(rogerf5㉿kali)-[~/lab]
+└─$ ls -la hardware/
 
-[+] Professional certifications and digital badges available on Credly
-[+] Profile: https://www.credly.com/users/roger-arana
-[+] Focus: offensive security, ethical hacking, cybersecurity auditing and secure systems
+drwxr-xr-x  Flipper Zero
+drwxr-xr-x  M5StickC Plus 2
+drwxr-xr-x  Marauder
+drwxr-xr-x  Rubber Ducky
+drwxr-xr-x  WiFi Pineapple
+drwxr-xr-x  Chameleon Ultra
+drwxr-xr-x  Ubertooth One
+drwxr-xr-x  Custom offensive labs
 ```
 
 ---
@@ -181,8 +175,8 @@
 <div align="center">
 
 ```bash
-┌──(rogerf5㉿kali)-[~/connect]
-└─$ echo "Building tools, breaking assumptions, improving security."
+┌──(rogerf5㉿kali)-[~/root]
+└─$ echo "Break assumptions. Build tools. Validate everything."
 ```
 
 </div>
