@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Roger F5 — Security Engineer / Tool Builder</title>
+  <desc id="description">Roger Arana, offensive security. A custom electric-lime and cyan radio circuit illustration accompanies the disciplines pentesting, automation, and hardware hacking.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#eff5ec" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="signal" x1="1074" y1="175" x2="1455" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c6f66b"/>
+      <stop offset="1" stop-color="#6bded8"/>
+    </linearGradient>
+    <linearGradient id="baseline" x1="80" y1="0" x2="1520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c6f66b"/>
+      <stop offset=".48" stop-color="#c6f66b" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6bded8" stop-opacity=".12"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="0" cy="0" r="1" gradientTransform="translate(1310 274) rotate(90) scale(245)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6bded8" stop-opacity=".075"/>
+      <stop offset="1" stop-color="#6bded8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- A self-contained vector masthead. No external fonts or image services. -->
+  <rect width="1600" height="560" rx="24" fill="#080d12"/>
+  <rect x="1" y="1" width="1598" height="558" rx="23" stroke="#eff5ec" stroke-opacity=".14"/>
+  <rect x="40" y="40" width="1520" height="480" fill="url(#grid)"/>
+  <path d="M80 38V66M66 52H94M1520 38V66M1506 52H1534M80 494V522M66 508H94M1520 494V522M1506 508H1534" stroke="#eff5ec" stroke-opacity=".28"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="80" y="90" width="8" height="21" rx="1" fill="#c6f66b"/>
+    <text x="106" y="107" fill="#eff5ec" font-size="21" letter-spacing="3">ROGER ARANA · OFFENSIVE SECURITY</text>
+    <text x="72" y="286" fill="#eff5ec" font-size="162" font-weight="800" letter-spacing="-9">ROGER <tspan fill="#c6f66b">F5</tspan></text>
+    <text x="82" y="341" fill="#eff5ec" font-size="26" letter-spacing="3.2">SECURITY ENGINEER / TOOL BUILDER</text>
+  </g>
+
+  <!-- Original circuit geometry: an RF field surrounding a bespoke F5 core. -->
+  <g stroke-linecap="square" stroke-linejoin="miter">
+    <circle cx="1308" cy="267" r="239" fill="url(#ambient)"/>
+    <path d="M1064 93H1100M1064 93V129M1552 93H1516M1552 93V129M1064 441H1100M1064 441V405M1552 441H1516M1552 441V405" stroke="#eff5ec" stroke-opacity=".24"/>
+    <path d="M1118 267H1498M1308 77V457" stroke="#6bded8" stroke-opacity=".18" stroke-dasharray="2 10"/>
+    <circle cx="1308" cy="267" r="173" stroke="#6bded8" stroke-opacity=".19"/>
+    <circle cx="1308" cy="267" r="153" stroke="#eff5ec" stroke-opacity=".12" stroke-dasharray="1 9"/>
+    <circle cx="1308" cy="267" r="128" stroke="#eff5ec" stroke-opacity=".11"/>
+    <path d="M1198 134A173 173 0 0 1 1463 190" stroke="#c6f66b" stroke-width="3"/>
+    <path d="M1418 400A173 173 0 0 1 1153 344" stroke="#6bded8" stroke-width="3"/>
+    <path d="M1322 114L1326 91M1440 190L1460 179M1430 366L1450 382M1294 420L1290 443M1176 344L1156 355M1186 168L1166 152" stroke="#eff5ec" stroke-opacity=".5" stroke-width="2"/>
+
+    <path d="M1106 228H1144L1165 207H1232M1080 304H1154L1179 329H1232M1384 207H1428L1450 228H1537M1384 329H1447L1473 303H1524" stroke="url(#signal)" stroke-opacity=".72" stroke-width="2"/>
+    <path d="M1232 241H1176L1156 261H1100M1384 292H1421L1445 268H1512M1266 191V170L1247 151V112M1351 343V369L1371 389V422" stroke="#6bded8" stroke-opacity=".33"/>
+    <circle cx="1100" cy="261" r="4" fill="#080d12" stroke="#6bded8"/>
+    <circle cx="1106" cy="228" r="4" fill="#c6f66b"/>
+    <circle cx="1080" cy="304" r="4" fill="#080d12" stroke="#c6f66b"/>
+    <circle cx="1537" cy="228" r="4" fill="#080d12" stroke="#6bded8"/>
+    <circle cx="1524" cy="303" r="4" fill="#6bded8"/>
+    <circle cx="1512" cy="268" r="4" fill="#080d12" stroke="#6bded8"/>
+    <circle cx="1247" cy="112" r="4" fill="#080d12" stroke="#c6f66b"/>
+    <circle cx="1371" cy="422" r="4" fill="#080d12" stroke="#6bded8"/>
+
+    <path d="M1232 211L1252 191H1364L1384 211V323L1364 343H1252L1232 323Z" fill="#0c161b" stroke="url(#signal)" stroke-width="2"/>
+    <path d="M1243 219L1260 202H1282M1373 315L1356 332H1334" stroke="#eff5ec" stroke-opacity=".35"/>
+    <path d="M1253 238H1295M1253 265H1287M1253 238V298M1314 238H1362M1314 238V264H1348L1362 277V288L1352 298H1313" stroke="url(#signal)" stroke-width="10"/>
+    <path d="M1266 185V174M1294 185V174M1322 185V174M1350 185V174M1266 349V360M1294 349V360M1322 349V360M1350 349V360M1226 225H1215M1226 253H1215M1226 281H1215M1226 309H1215M1390 225H1401M1390 253H1401M1390 281H1401M1390 309H1401" stroke="#c6f66b" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+
+  <path d="M80 404H1520" stroke="url(#baseline)"/>
+  <g font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="1.5">
+    <path d="M81 449L89 457L81 465" stroke="#c6f66b" stroke-width="2"/>
+    <text x="108" y="464" fill="#eff5ec">PENTESTING</text>
+    <path d="M309 449V469" stroke="#eff5ec" stroke-opacity=".22"/>
+    <text x="344" y="464" fill="#eff5ec">AUTOMATION</text>
+    <path d="M545 449V469" stroke="#eff5ec" stroke-opacity=".22"/>
+    <text x="580" y="464" fill="#eff5ec">HARDWARE HACKING</text>
+  </g>
+  <g fill="#6bded8" opacity=".7">
+    <rect x="1448" y="458" width="8" height="8"/>
+    <rect x="1464" y="450" width="8" height="16"/>
+    <rect x="1480" y="439" width="8" height="27"/>
+    <rect x="1496" y="450" width="8" height="16"/>
+    <rect x="1512" y="458" width="8" height="8"/>
+  </g>
+</svg>

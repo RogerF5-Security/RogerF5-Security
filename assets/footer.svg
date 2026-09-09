@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="155" viewBox="0 0 1600 155" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Break assumptions. Build tools. Validate everything.</title>
+  <desc id="description">Roger F5 / Security Engineering. An original lime circuit line frames the closing statement.</desc>
+  <defs>
+    <linearGradient id="line" x1="80" y1="0" x2="1520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c6f66b"/>
+      <stop offset="1" stop-color="#6bded8" stop-opacity=".25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="155" rx="20" fill="#080d12"/>
+  <rect x="1" y="1" width="1598" height="153" rx="19" stroke="#eff5ec" stroke-opacity=".14"/>
+  <path d="M80 31H350L366 47H1520" stroke="url(#line)"/>
+  <circle cx="80" cy="31" r="4" fill="#c6f66b"/>
+  <text x="80" y="100" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="600" letter-spacing="-.6" fill="#eff5ec">Break assumptions. Build tools. <tspan fill="#c6f66b">Validate everything.</tspan></text>
+  <path d="M1094 73V116" stroke="#eff5ec" stroke-opacity=".2"/>
+  <g font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" letter-spacing="1.5">
+    <text x="1130" y="87" fill="#eff5ec">ROGER F5 /</text>
+    <text x="1130" y="113" fill="#6bded8">SECURITY ENGINEERING</text>
+  </g>
+</svg>

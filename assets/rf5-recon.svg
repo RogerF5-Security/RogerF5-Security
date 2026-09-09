@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">RF5 RECON — Browser reconnaissance</title>
+  <desc id="desc">An original browser and reconnaissance workflow illustration in electric lime and cyan.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#203039"/></pattern>
+    <linearGradient id="fade" x1="1600" y1="0" x2="760" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#132C30"/><stop offset="1" stop-color="#080D12"/></linearGradient>
+  </defs>
+  <rect width="1600" height="400" rx="20" fill="#080D12"/>
+  <rect x="760" width="840" height="400" rx="20" fill="url(#fade)"/>
+  <rect x="800" y="1" width="780" height="398" fill="url(#grid)" opacity=".45"/>
+  <rect x="1" y="1" width="1598" height="398" rx="19" stroke="#2D4247"/>
+  <path d="M0 52V112" stroke="#C6F66B" stroke-width="6"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="19" letter-spacing="3">
+    <text x="64" y="69" fill="#C6F66B">FEATURED / BROWSER EXTENSION</text>
+    <text x="64" y="335" fill="#9BABA9" font-size="18" letter-spacing="2">CHROME + FIREFOX</text>
+  </g>
+  <text x="60" y="173" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="-4" fill="#EFF5EC">RF5 RECON<tspan fill="#C6F66B">.</tspan></text>
+  <text x="64" y="235" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#BCCDC8">Tu navegador. Tu punto de partida.</text>
+  <path d="M64 278H736" stroke="#2D4247"/>
+  <g stroke="#45666A" stroke-width="2">
+    <rect x="950" y="66" width="526" height="268" rx="15" fill="#0C171F"/>
+    <path d="M950 108H1476"/>
+    <circle cx="973" cy="87" r="4" fill="#C6F66B" stroke="none"/>
+    <circle cx="992" cy="87" r="4" fill="#6BDED8" stroke="none"/>
+    <circle cx="1011" cy="87" r="4" fill="#45666A" stroke="none"/>
+    <rect x="1054" y="77" width="338" height="20" rx="4" fill="#162730" stroke="none"/>
+    <path d="M1048 184H1100M1150 234H1240M1348 234H1390V284" stroke="#6BDED8"/>
+    <path d="M1048 234H1100V284H1210" stroke="#C6F66B"/>
+    <rect x="988" y="146" width="62" height="124" rx="6" fill="#172B30"/>
+    <path d="M1004 168H1034M1004 184H1022M1004 216H1034M1004 232H1022"/>
+    <rect x="1100" y="158" width="150" height="52" rx="6" fill="#1A3024" stroke="#C6F66B"/>
+    <rect x="1240" y="211" width="170" height="46" rx="6" fill="#133036" stroke="#6BDED8"/>
+    <circle cx="1210" cy="284" r="5" fill="#C6F66B" stroke="none"/>
+    <circle cx="1390" cy="284" r="5" fill="#6BDED8" stroke="none"/>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="19" text-anchor="middle">
+    <text x="1175" y="191" fill="#C6F66B">RECON</text>
+    <text x="1325" y="241" fill="#6BDED8">WORKFLOW</text>
+  </g>
+</svg>

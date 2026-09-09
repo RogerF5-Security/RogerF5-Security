@@ -1,150 +1,192 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=39FF14&center=true&vCenter=true&width=820&lines=Roger+F5" alt="Typing SVG" />
-  </a>
+<img src="assets/hero.svg" width="100%" alt="Roger F5 — Roger Arana. Security engineer, tool builder. Pentesting, automation and hardware hacking." />
 
-  <br><br>
+<br />
 
-  <a href="https://www.linkedin.com/in/rogerf5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.credly.com/users/roger-arana">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
-  </a>
-  <a href="https://www.youtube.com/@ROGERF5">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://github.com/RogerF5-Security/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+**Del reconocimiento a la evidencia. Del código al hardware.**
 
-  <br>
+Ingeniero en Sistemas · Seguridad Ofensiva · Desarrollo Seguro
 
-  <a href="https://www.twitch.tv/rogerf5">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://www.tiktok.com/@roger_f5?_r=1&_t=ZS-93UFGAbNfhY">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://discord.gg/9Rp4dskE">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/rogerf5?igsh=OG8xbjYzandwamk3">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p>
+<a href="https://rogerf5-security.github.io/whoami/"><img src="https://img.shields.io/badge/PORTFOLIO-C6F66B?style=for-the-badge&logo=github&logoColor=080D12" alt="Ver mi portfolio" /></a>
+<a href="https://www.linkedin.com/in/rogerf5/"><img src="https://img.shields.io/badge/LINKEDIN-17232D?style=for-the-badge&logoColor=EFF5EC" alt="LinkedIn" /></a>
+<a href="https://www.credly.com/users/roger-arana"><img src="https://img.shields.io/badge/CREDLY-17232D?style=for-the-badge&logo=credly&logoColor=C6F66B" alt="Certificaciones en Credly" /></a>
+<a href="https://www.youtube.com/@ROGERF5"><img src="https://img.shields.io/badge/YOUTUBE-17232D?style=for-the-badge&logo=youtube&logoColor=6BDED8" alt="Canal Roger F5 en YouTube" /></a>
+</p>
+
+<br />
+
+[Sobre mí](#01--whoami) · [RF5 RECON](#02--rf5-recon) · [Proyectos](#03--built-in-the-lab) · [Arsenal](#04--arsenal) · [Comunidad](#05--beyond-the-terminal)
 
 </div>
 
-<br>
+<br />
 
-### >_ Access Granted
+## 01 / WHOAMI
 
-```bash
-┌──(rogerf5㉿kali)-[~/operator]
-└─$ whoami 
+Soy **Roger Arana**, también conocido como **Roger F5**. Ingeniero en Sistemas de Guatemala, especializado en seguridad ofensiva y desarrollo seguro. Conecto el pentesting con la ingeniería: automatización en Python, revisión de código, extensiones de navegador y laboratorios de hardware.
 
-[+] IDENTITY : Roger Arana
-[+] HANDLE   : Roger F5
-[+] ROLE     : Ingeniero de Sistemas | Pentester | Auditor de Seguridad Ofensiva
-[+] MODE     : Authorized offensive security | Tool development | Hardware hacking
-[+] MISSION  : Recon faster, validate deeper, report cleaner, harden smarter
+> Recon faster. Validate deeper. Report cleaner. Harden smarter.
 
-[*] SPECIALTIES:
-    ├── Web, network and infrastructure pentesting
-    ├── Vulnerability validation and exploitation labs
-    ├── Python automation for reconnaissance and reporting
-    ├── Custom offensive tooling: CLI, GUI and browser extensions
-    ├── RF, NFC/RFID, HID and portable hardware security labs
-    └── Technical content focused on practical cybersecurity
+| SECURITY RESEARCH | TOOL ENGINEERING | HARDWARE LAB |
+| :--- | :--- | :--- |
+| Pentesting web, móvil, APIs e infraestructura. Validación de vulnerabilidades y documentación técnica. | Python, fuzzing, código seguro y SDLC. Herramientas CLI, GUI y reportes HTML, XLSX y JSON. | RF, BLE, Wi-Fi, NFC/RFID y HID. Experimentación con dispositivos y sistemas embebidos. |
 
-[*] CERTS:
-    └── CPTE | CPEH | CCEP
+**Certificaciones:** `C)PTE` · `C)PEH` · `CCEP` · `CAIS` · `Cisco Ethical Hacker`
 
-```
+[Ver credenciales en Credly](https://www.credly.com/users/roger-arana) · [Trayectoria y certificaciones](https://rogerf5-security.github.io/whoami/)
 
+<br />
 
-### >_ Featured Tool: RF5 RECON
+## 02 / RF5 RECON
 
-*Browser extension built for fast reconnaissance and security workflow acceleration.*
+<a href="https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/">
+  <img src="assets/rf5-recon.svg" width="100%" alt="RF5 RECON — Browser reconnaissance. Reconocimiento y herramientas de seguridad desde el navegador. Disponible para Chrome y Firefox." />
+</a>
 
-| Chrome Web Store | Firefox Add-Ons |
-| :---: | :---: |
-| <a href="https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd?utm_source=item-share-cb"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> | <a href="https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/"><img src="https://img.shields.io/badge/Firefox_Add_Ons-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox Add-Ons" /></a> |
+Mi extensión para agilizar el **reconocimiento y el flujo de evaluación de seguridad desde el navegador**. Un acceso directo a las herramientas del día a día del pentester.
 
----
-
-### >_ Arsenal
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <br>
-
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Nuclei-0055FF?style=for-the-badge&logo=nuclei&logoColor=white" alt="Nuclei" />
-  <img src="https://img.shields.io/badge/Wapiti-333333?style=for-the-badge&logo=python&logoColor=white" alt="Wapiti" />
-  <img src="https://img.shields.io/badge/Nikto-2C2C2C?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nikto" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-4B5C68?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Caido-6A0DAD?style=for-the-badge&logo=lightning&logoColor=white" alt="Caido" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <br>
-
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Aircrack_ng-D01C1C?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng" />
-  <br>
-
-  <img src="https://img.shields.io/badge/Flipper_Zero-E88024?style=for-the-badge&logo=flipperzero&logoColor=white" alt="Flipper Zero" />
-  <img src="https://img.shields.io/badge/Hak5-CC0000?style=for-the-badge&logo=usb&logoColor=white" alt="Hak5" />
-  <img src="https://img.shields.io/badge/M5Stack-222222?style=for-the-badge&logo=espressif&logoColor=white" alt="M5Stack" />
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ATM_Security-111111?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="ATM Security" />
-  <br>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd"><img src="https://img.shields.io/badge/INSTALAR_EN_CHROME-C6F66B?style=for-the-badge&logo=googlechrome&logoColor=080D12" alt="Instalar RF5 RECON desde Chrome Web Store" /></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/"><img src="https://img.shields.io/badge/INSTALAR_EN_FIREFOX-17232D?style=for-the-badge&logo=firefoxbrowser&logoColor=6BDED8" alt="Instalar RF5 RECON desde Firefox Add-ons" /></a>
 </p>
 
----
+<br />
 
-### >_ Hardware Arsenal
+## 03 / BUILT IN THE LAB
 
-```bash
-┌──(rogerf5㉿kali)-[~/lab]
-└─$ ls -la hardware/
+Herramientas y proyectos propios: del software de auditoría a la seguridad portátil.
 
-drwxr-xr-x  Flipper Zero
-drwxr-xr-x  M5StickC Plus 2
-drwxr-xr-x  Marauder
-drwxr-xr-x  Rubber Ducky
-drwxr-xr-x  WiFi Pineapple
-drwxr-xr-x  Chameleon Ultra
-drwxr-xr-x  Ubertooth One
-drwxr-xr-x  Custom offensive labs
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [Scan Titan ↗](https://github.com/RogerF5-Security/Scan-Titan)
 
-### >_ Roger F5 Media
+**RECON · AUTOMATION · REPORTING**
 
-| Hardware & Automation | Kali |
-| :---: | :---: |
-| <a href="https://www.youtube.com/watch?v=h4qC4S8p7FY"><img src="https://img.youtube.com/vi/h4qC4S8p7FY/0.jpg" width="100%" alt="Arduino con ChatGPT" /></a> | <a href="https://www.youtube.com/watch?v=ifDqZuoZDHc"><img src="https://img.youtube.com/vi/ifDqZuoZDHc/0.jpg" width="100%" alt="Kali Purple" /></a> |
-| **Arduino + ChatGPT Melody** | **Que es Kali Purple** |
+Motor de auditoría en Python que conecta reconocimiento, pruebas web, herramientas externas y reportes de vulnerabilidades.
 
----
+`Python` `CLI` `Security automation`
+
+[Explorar código](https://github.com/RogerF5-Security/Scan-Titan) · [Ver proyecto](https://rogerf5-security.github.io/Scan-Titan/)
+
+</td>
+<td width="50%" valign="top">
+
+### [BLE Scout ↗](https://github.com/RogerF5-Security/BLE-Scout)
+
+**WIRELESS · EMBEDDED · FIELD LAB**
+
+Inventario BLE pasivo para LILYGO T-Dongle-S3: radar en pantalla, evidencias en microSD y un panel web local.
+
+`C++` `ESP32-S3` `Bluetooth LE`
+
+[Explorar código](https://github.com/RogerF5-Security/BLE-Scout) · [Ver releases](https://github.com/RogerF5-Security/BLE-Scout/releases)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [WikiFlip ↗](https://github.com/RogerF5-Security/WikiFlip)
+
+**FLIPPER ZERO · KNOWLEDGE · OFFLINE**
+
+Diccionario de ciberseguridad para Flipper Zero. Términos en inglés y español, disponibles sin conexión.
+
+`C` `FAP` `Flipper Zero`
+
+[Explorar código](https://github.com/RogerF5-Security/WikiFlip)
+
+</td>
+<td width="50%" valign="top">
+
+### [Reportes Burp ↗](https://github.com/RogerF5-Security/Reportes-Burp)
+
+**BURP SUITE · EVIDENCE · WORKFLOW**
+
+Extensión para automatizar la documentación de vulnerabilidades y la generación de reportes desde Burp Suite.
+
+`Python` `Burp Suite` `Reporting`
+
+[Explorar código](https://github.com/RogerF5-Security/Reportes-Burp)
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/RogerF5-Security?tab=repositories"><strong>Explorar todos los repositorios →</strong></a></p>
+
+<br />
+
+## 04 / ARSENAL
+
+<p>
+  <img src="https://img.shields.io/badge/Python-17232D?style=flat-square&logo=python&logoColor=C6F66B" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-17232D?style=flat-square&logo=gnubash&logoColor=C6F66B" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-17232D?style=flat-square&logo=linux&logoColor=C6F66B" alt="Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-17232D?style=flat-square&logo=burpsuite&logoColor=6BDED8" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Docker-17232D?style=flat-square&logo=docker&logoColor=6BDED8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flipper_Zero-17232D?style=flat-square&logo=flipperzero&logoColor=6BDED8" alt="Flipper Zero" />
+</p>
+
+| Área | Herramientas y plataformas |
+| :--- | :--- |
+| **Reconocimiento y análisis** | Nmap · Nuclei · Wapiti · Nikto · Wireshark |
+| **Seguridad web** | Burp Suite · OWASP ZAP · Caido |
+| **Pentesting y wireless** | Metasploit · Aircrack-ng · Kali Linux |
+| **Desarrollo** | Python · Qt · Bash · Git · Docker · Linux · Windows |
+| **Sistemas embebidos** | ESP32 / Espressif · M5Stack · Arduino |
+
+### Hardware, fuera de la terminal
+
+| Laboratorio | Dispositivos |
+| :--- | :--- |
+| **RF · NFC / RFID** | Flipper Zero · Chameleon Ultra |
+| **Wi-Fi · BLE** | WiFi Pineapple · Ubertooth One · M5StickC Plus 2 · Marauder |
+| **HID · USB** | Rubber Ducky |
+| **Investigación aplicada** | Laboratorios propios · Seguridad de ATM |
+
+<br />
+
+## 05 / BEYOND THE TERMINAL
+
+Comparto experimentos, herramientas y contenido práctico de ciberseguridad. También documento lo que ocurre cuando el código se encuentra con el hardware.
+
+**Speaker en Pwn3dCON Community Sessions** con una introducción a Burp Suite, y **facilitador de Hardware Hacking en NicaSecurity Hub · TechClinics**. [Más sobre mi participación en la comunidad ↗](https://rogerf5-security.github.io/whoami/)
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://www.youtube.com/watch?v=h4qC4S8p7FY"><img src="https://img.youtube.com/vi/h4qC4S8p7FY/hqdefault.jpg" width="100%" alt="Ver Arduino + ChatGPT Melody en YouTube" /></a>
+  <br /><strong>Arduino + ChatGPT Melody</strong><br />
+  <sub>HARDWARE &amp; AUTOMATION</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://www.youtube.com/watch?v=ifDqZuoZDHc"><img src="https://img.youtube.com/vi/ifDqZuoZDHc/hqdefault.jpg" width="100%" alt="Ver Qué es Kali Purple en YouTube" /></a>
+  <br /><strong>¿Qué es Kali Purple?</strong><br />
+  <sub>CYBERSECURITY &amp; LEARNING</sub>
+</td>
+</tr>
+</table>
+
+<br />
 
 <div align="center">
 
-```bash
-┌──(rogerf5㉿kali)-[~/root]
-└─$ echo "Break assumptions. Build tools. Validate everything."
-```
+**Conectemos ideas. Construyamos herramientas.**
+
+<p>
+<a href="https://www.twitch.tv/rogerf5"><img src="https://img.shields.io/badge/TWITCH-17232D?style=for-the-badge&logo=twitch&logoColor=C6F66B" alt="Twitch" /></a>
+<a href="https://www.tiktok.com/@roger_f5"><img src="https://img.shields.io/badge/TIKTOK-17232D?style=for-the-badge&logo=tiktok&logoColor=EFF5EC" alt="TikTok" /></a>
+<a href="https://discord.gg/9Rp4dskE"><img src="https://img.shields.io/badge/DISCORD-17232D?style=for-the-badge&logo=discord&logoColor=6BDED8" alt="Discord" /></a>
+<a href="https://www.instagram.com/rogerf5"><img src="https://img.shields.io/badge/INSTAGRAM-17232D?style=for-the-badge&logo=instagram&logoColor=EFF5EC" alt="Instagram" /></a>
+</p>
+
+<br />
+
+<img src="assets/footer.svg" width="100%" alt="Break assumptions. Build tools. Validate everything. — Roger F5 / Security Engineering" />
 
 </div>
