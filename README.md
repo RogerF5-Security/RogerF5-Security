@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Roger F5 — Roger Arana. Security engineer, tool builder. Pentesting, automation and hardware hacking." />
+<a href="assets/roger-f5-logo.jpg"><img src="assets/hero.svg?v=brand" width="100%" alt="Roger F5 — Roger Arana y su logo original: sombrero, máscara y sudadera roja. Security engineer / tool builder. Pentesting, automation and hardware hacking." /></a>
 
 <br />
 
