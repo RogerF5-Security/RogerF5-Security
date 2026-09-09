@@ -21,6 +21,12 @@
 
   <br>
 
+  <a href="CHANGELOG.md">
+    <img src="https://img.shields.io/badge/Profile-v2.0.0-39FF14?style=flat-square&logo=semanticrelease&logoColor=black" alt="Profile version 2.0.0" />
+  </a>
+
+  <br>
+
   <a href="https://www.twitch.tv/rogerf5">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
@@ -49,6 +55,7 @@
 [+] ROLE     : Ingeniero de Sistemas | Pentester | Auditor de Seguridad Ofensiva
 [+] MODE     : Authorized offensive security | Tool development | Hardware hacking
 [+] MISSION  : Recon faster, validate deeper, report cleaner, harden smarter
+[+] COMMUNITY: Open-source knowledge, practical tooling and collaboration without borders
 
 [*] SPECIALTIES:
     ├── Web, network and infrastructure pentesting
@@ -64,13 +71,23 @@
 ```
 
 
-### >_ Featured Tool: RF5 RECON
+### >_ Featured Tools
+
+#### RF5 RECON
 
 *Browser extension built for fast reconnaissance and security workflow acceleration.*
 
 | Chrome Web Store | Firefox Add-Ons |
 | :---: | :---: |
 | <a href="https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd?utm_source=item-share-cb"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> | <a href="https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/"><img src="https://img.shields.io/badge/Firefox_Add_Ons-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox Add-Ons" /></a> |
+
+#### Scan Titan
+
+*Chrome extension for security-oriented reconnaissance and streamlined web assessment workflows.*
+
+<a href="https://chromewebstore.google.com/detail/scan-titan/epdbmbbfkmmhkfcfhlpncfkehgcaldcb">
+  <img src="https://img.shields.io/badge/Install_Scan_Titan-Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install Scan Titan from Chrome Web Store" />
+</a>
 
 ---
 
@@ -132,6 +149,8 @@ drwxr-xr-x  Custom offensive labs
 ---
 
 ### >_ Roger F5 Media
+
+Practical cybersecurity content for a global community of builders, learners and security professionals. Collaboration, feedback and responsible contributions are welcome.
 
 | Hardware & Automation | Kali |
 | :---: | :---: |
