@@ -167,6 +167,8 @@ Comparto experimentos, herramientas y contenido práctico de ciberseguridad. Tam
 
 Para reportar una vulnerabilidad en mis proyectos, utiliza el canal privado del repositorio afectado. [Política de seguridad](SECURITY.md).
 
+¿Encontraste un enlace roto o una mejora de presentación? [Cómo proponer cambios y validar el perfil](CONTRIBUTING.md).
+
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
