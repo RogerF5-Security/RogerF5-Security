@@ -6,7 +6,7 @@
 
 **Del reconocimiento a la evidencia. Del código al hardware.**
 
-Ingeniero en Sistemas · Seguridad Ofensiva · Desarrollo Seguro
+Ingeniero en Sistemas · Seguridad Ofensiva · Auditoría de IA · Desarrollo Seguro
 
 <p>
 <a href="https://rogerf5-security.github.io/whoami/"><img src="https://img.shields.io/badge/PORTFOLIO-C6F66B?style=for-the-badge&logo=github&logoColor=080D12" alt="Ver mi portfolio" /></a>
@@ -26,6 +26,8 @@ Ingeniero en Sistemas · Seguridad Ofensiva · Desarrollo Seguro
 ## 01 / WHOAMI
 
 Soy **Roger Arana**, también conocido como **Roger F5**. Ingeniero en Sistemas de Guatemala, especializado en seguridad ofensiva y desarrollo seguro. Conecto el pentesting con la ingeniería: automatización en Python, revisión de código, extensiones de navegador y laboratorios de hardware.
+
+También realizo **auditorías de seguridad de chats y asistentes de IA**, con validación de hallazgos y documentación de evidencias.
 
 > Recon faster. Validate deeper. Report cleaner. Harden smarter.
 
@@ -156,6 +158,14 @@ Extensión para automatizar la documentación de vulnerabilidades y la generaci�
 Comparto experimentos, herramientas y contenido práctico de ciberseguridad. También documento lo que ocurre cuando el código se encuentra con el hardware.
 
 **Speaker en Pwn3dCON Community Sessions** con una introducción a Burp Suite, y **facilitador de Hardware Hacking en NicaSecurity Hub · TechClinics**. [Más sobre mi participación en la comunidad ↗](https://rogerf5-security.github.io/whoami/)
+
+| Participación | Actividad |
+| :--- | :--- |
+| **FIT Galileo 2026 · Tallerista** | Taller de Flipper Zero. [Presentación y fotos](https://rogerf5-security.github.io/whoami/#comunidad). |
+| **Pwn3d Tools 2026 · Ponente** | Charla sobre herramientas de ciberseguridad y presentación de Scan Titan. [Ver evidencias](https://rogerf5-security.github.io/whoami/#comunidad). |
+| **Eventos · Asistente** | HackemCON 2022, PWN3D 2024, PWN3D 2026 y Ekoparty 2026. [Certificados](https://rogerf5-security.github.io/whoami/#evidencias). |
+
+Para reportar una vulnerabilidad en mis proyectos, utiliza el canal privado del repositorio afectado. [Política de seguridad](SECURITY.md).
 
 <table>
 <tr>

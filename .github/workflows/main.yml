@@ -1,24 +1,26 @@
-name: GitHub-Profile-Summary-Cards
+name: Validate profile
 
 on:
-  schedule: # Se ejecuta cada 24 horas
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la web
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    permissions:
-      contents: write
-    
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v2
-      
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
-          USERNAME: ${{ github.repository_owner }}
-          # Opciones de temas: solarized_dark, radical, gruvbox, github_dark
-          THEME: solarized_dark
+          persist-credentials: false
+      - name: Validate profile assets
+        run: python .github/scripts/check_profile.py
