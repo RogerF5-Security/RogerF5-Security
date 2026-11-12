@@ -4,9 +4,11 @@
 
 <br />
 
-**Pentesting · Security Automation · Hardware Hacking**
+**Red Team · AppSec · Security Automation · Hardware Hacking**
 
-Soy **Roger Arana / Roger F5**, ingeniero en Sistemas de Guatemala. Desarrollo herramientas de auditoría, automatizo la recolección de evidencias y construyo proyectos que conectan software, radio y sistemas embebidos.
+Soy **Roger Arana / Roger F5**, ingeniero en Sistemas de Guatemala. Trabajo en seguridad ofensiva y desarrollo herramientas para convertir una observación técnica en evidencia reproducible: desde una aplicación web hasta un dispositivo embebido.
+
+<sub>Offensive security engineer building audit tools, browser extensions and embedded projects.</sub>
 
 <p>
 <a href="https://rogerf5-security.github.io/whoami/"><img src="https://img.shields.io/badge/PORTFOLIO-C6F66B?style=for-the-badge&logo=github&logoColor=080D12" alt="Portfolio y trayectoria" /></a>
@@ -32,6 +34,8 @@ Soy **Roger Arana / Roger F5**, ingeniero en Sistemas de Guatemala. Desarrollo h
 
 ## 02 / PROYECTOS SELECCIONADOS
 
+**Web y APIs → Scan Titan / RF5 RECON** · **Wireless → BLE Scout** · **Flipper Zero → NFC QR Presenter / Asset Maker**
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -53,11 +57,11 @@ Conecta reconocimiento, evaluación web y herramientas externas en un flujo de t
 
 **RECONOCIMIENTO DESDE EL NAVEGADOR**
 
-Reúne DNS, headers, políticas de cookies y recursos observados para iniciar una auditoría web. El código Chrome MV3 exporta indicios y evidencia en JSON para su validación.
+Reúne DNS, headers, políticas de cookies y recursos observados para iniciar una auditoría web. Exporta indicios y evidencia en JSON; el repositorio incluye el código Chrome MV3 y el empaquetado para Firefox.
 
 `JavaScript` `Browser extension` `Web security`
 
-[Código Chrome MV3](https://github.com/RogerF5-Security/RF5-RECON) · [Instalar en Chrome](https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/)
+[Repositorio](https://github.com/RogerF5-Security/RF5-RECON) · [Instalar en Chrome](https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/)
 
 </td>
 </tr>
@@ -89,6 +93,38 @@ Comparte una URL, contacto o nota desde Flipper Zero mediante QR y NFC NDEF simu
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Flipper Asset Maker ↗](https://github.com/RogerF5-Security/Flipper_Assest_Maker)
+
+**DEL DISEÑO A LA PANTALLA DEL FLIPPER**
+
+Editor de imágenes y animaciones con texto, dibujo, deshacer/rehacer e importación GIF/vídeo. Exporta BM/XBM, GIF y packs ZIP; incluye un gestor USB CLI.
+
+`Python` `CustomTkinter` `Image processing`
+
+[Prerelease 2.0.0.dev4](https://github.com/RogerF5-Security/Flipper_Assest_Maker/releases/tag/v2.0.0.dev4) · [Pruebas de escritorio](https://github.com/RogerF5-Security/Flipper_Assest_Maker/actions/workflows/tests.yml) · [Arquitectura](https://github.com/RogerF5-Security/Flipper_Assest_Maker/blob/main/docs/ARCHITECTURE.md)
+
+<sub>Versión de desarrollo. Pruebas automáticas y GUI en Windows con Python 3.10 y 3.14; transferencia USB física pendiente.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [USB PurpleCheck ↗](https://github.com/RogerF5-Security/USB-PurpleCheck)
+
+**VALIDACIÓN DE CONTROLES USB FÍSICOS**
+
+Utilidad autónoma para Flipper Zero con perfiles de almacenamiento y teclado HID. Usa datos sintéticos y separa las observaciones del dispositivo de la conclusión del operador.
+
+`C` `USB / HID` `Flipper Zero`
+
+[Repositorio](https://github.com/RogerF5-Security/USB-PurpleCheck) · [Build oficial](https://github.com/RogerF5-Security/USB-PurpleCheck/actions) · [Estado de validación](https://github.com/RogerF5-Security/USB-PurpleCheck/blob/main/docs/VALIDATION.md)
+
+<sub>[En revisión para el catálogo de Flipper](https://github.com/flipperdevices/flipper-application-catalog/pull/1393). La aceptación y las pruebas físicas restantes siguen pendientes.</sub>
+
+</td>
+</tr>
 </table>
 
 **También en el laboratorio:** [WikiFlip](https://github.com/RogerF5-Security/WikiFlip), diccionario de ciberseguridad offline; [Mayan Decoder](https://github.com/RogerF5-Security/Mayan_decoder), conversión de numeración maya; [Reportes Burp](https://github.com/RogerF5-Security/Reportes-Burp), documentación de hallazgos desde Burp Suite.
@@ -107,6 +143,8 @@ Comparte una URL, contacto o nota desde Flipper Zero mediante QR y NFC NDEF simu
 | **Desarrollo de herramientas** | Automatización en Python, integración de herramientas CLI, interfaces gráficas, extensiones de navegador y generación de reportes. |
 | **Seguridad de IA** | Auditoría de chats y asistentes de IA, validación de hallazgos y documentación de evidencias. |
 | **Hardware y wireless** | Laboratorios con RF, BLE, Wi-Fi, NFC/RFID, HID y sistemas embebidos. |
+
+**Método de trabajo:** comparar contra una línea base, reproducir el comportamiento, documentar el impacto y verificar la corrección.
 
 **Credenciales destacadas:** `C)PTE` · `C)PEH` · `CCEP` · `CAIS` · `Cisco Ethical Hacker`
 
@@ -132,6 +170,8 @@ Del firmware a la pieza física. En [Doggie House](https://github.com/RogerF5-Se
 | **RF · NFC / RFID** | Flipper Zero · Chameleon Ultra |
 | **Wi-Fi · BLE** | WiFi Pineapple · Ubertooth One · M5StickC Plus 2 · Marauder |
 | **HID · USB · Embebidos** | Rubber Ducky · ESP32 / Espressif · Arduino |
+| **LoRa · Redes mesh** | Heltec LoRa V3 · Meshtastic |
+| **Fabricación** | Impresión 3D · Prototipado de carcasas · Kraken Tres D |
 
 </details>
 
@@ -150,7 +190,11 @@ Comparto herramientas, demostraciones y material práctico de seguridad ofensiva
 
 [Trayectoria, eventos y certificados →](https://rogerf5-security.github.io/whoami/)
 
-Para reportar una vulnerabilidad en mis proyectos, utiliza el canal privado indicado en su política de seguridad. [Política de este repositorio](SECURITY.md) · [Cómo colaborar](CONTRIBUTING.md).
+### Colaboración y contacto
+
+[LinkedIn](https://www.linkedin.com/in/rogerf5/) para contacto profesional · [Portfolio](https://rogerf5-security.github.io/whoami/) para trayectoria, talleres y credenciales.
+
+Para mejoras o errores de una herramienta, utiliza los issues de su repositorio. Para vulnerabilidades, sigue su canal privado de seguridad. [Política de este repositorio](SECURITY.md) · [Cómo colaborar](CONTRIBUTING.md).
 
 <br />
 
