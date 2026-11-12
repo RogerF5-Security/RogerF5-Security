@@ -1,64 +1,36 @@
 <div align="center">
 
-<a href="assets/roger-f5-logo.jpg"><img src="assets/hero.svg?v=brand" width="100%" alt="Roger F5 — Roger Arana y su logo original: sombrero, máscara y sudadera roja. Security engineer / tool builder. Pentesting, automation and hardware hacking." /></a>
+<a href="assets/roger-f5-logo.jpg"><img src="assets/hero.svg?v=brand" width="100%" alt="Roger F5 — Roger Arana. Seguridad ofensiva, desarrollo de herramientas y hardware hacking." /></a>
 
 <br />
 
-**Del reconocimiento a la evidencia. Del código al hardware.**
+**Pentesting · Security Automation · Hardware Hacking**
 
-Ingeniero en Sistemas · Seguridad Ofensiva · Auditoría de IA · Desarrollo Seguro
+Soy **Roger Arana / Roger F5**, ingeniero en Sistemas de Guatemala. Desarrollo herramientas de auditoría, automatizo la recolección de evidencias y construyo proyectos que conectan software, radio y sistemas embebidos.
 
 <p>
-<a href="https://rogerf5-security.github.io/whoami/"><img src="https://img.shields.io/badge/PORTFOLIO-C6F66B?style=for-the-badge&logo=github&logoColor=080D12" alt="Ver mi portfolio" /></a>
+<a href="https://rogerf5-security.github.io/whoami/"><img src="https://img.shields.io/badge/PORTFOLIO-C6F66B?style=for-the-badge&logo=github&logoColor=080D12" alt="Portfolio y trayectoria" /></a>
 <a href="https://www.linkedin.com/in/rogerf5/"><img src="https://img.shields.io/badge/LINKEDIN-17232D?style=for-the-badge&logoColor=EFF5EC" alt="LinkedIn" /></a>
-<a href="https://www.credly.com/users/roger-arana"><img src="https://img.shields.io/badge/CREDLY-17232D?style=for-the-badge&logo=credly&logoColor=C6F66B" alt="Certificaciones en Credly" /></a>
-<a href="https://www.youtube.com/@ROGERF5"><img src="https://img.shields.io/badge/YOUTUBE-17232D?style=for-the-badge&logo=youtube&logoColor=6BDED8" alt="Canal Roger F5 en YouTube" /></a>
+<a href="https://www.credly.com/users/roger-arana"><img src="https://img.shields.io/badge/CREDENCIALES-17232D?style=for-the-badge&logo=credly&logoColor=C6F66B" alt="Credenciales en Credly" /></a>
 </p>
 
-<br />
-
-[Sobre mí](#01--whoami) · [RF5 RECON](#02--rf5-recon) · [Proyectos](#03--built-in-the-lab) · [Arsenal](#04--arsenal) · [Comunidad](#05--beyond-the-terminal)
+[Evidencia](#01--contribuciones-verificables) · [Proyectos](#02--proyectos-seleccionados) · [Especialidades](#03--del-hallazgo-al-reporte) · [Laboratorio](#04--hardware-en-la-mesa) · [Comunidad](#05--compartir-lo-aprendido)
 
 </div>
 
 <br />
 
-## 01 / WHOAMI
+## 01 / CONTRIBUCIONES VERIFICABLES
 
-Soy **Roger Arana**, también conocido como **Roger F5**. Ingeniero en Sistemas de Guatemala, especializado en seguridad ofensiva y desarrollo seguro. Conecto el pentesting con la ingeniería: automatización en Python, revisión de código, extensiones de navegador y laboratorios de hardware.
-
-También realizo **auditorías de seguridad de chats y asistentes de IA**, con validación de hallazgos y documentación de evidencias.
-
-> Recon faster. Validate deeper. Report cleaner. Harden smarter.
-
-| SECURITY RESEARCH | TOOL ENGINEERING | HARDWARE LAB |
-| :--- | :--- | :--- |
-| Pentesting web, móvil, APIs e infraestructura. Validación de vulnerabilidades y documentación técnica. | Python, fuzzing, código seguro y SDLC. Herramientas CLI, GUI y reportes HTML, XLSX y JSON. | RF, BLE, Wi-Fi, NFC/RFID y HID. Experimentación con dispositivos y sistemas embebidos. |
-
-**Certificaciones:** `C)PTE` · `C)PEH` · `CCEP` · `CAIS` · `Cisco Ethical Hacker`
-
-[Ver credenciales en Credly](https://www.credly.com/users/roger-arana) · [Trayectoria y certificaciones](https://rogerf5-security.github.io/whoami/)
+| Aporte | Evidencia pública |
+| :--- | :--- |
+| **GitHub Advisory Database · Analyst** | Crédito como **Analyst** en [CVE-2026-54279 / GHSA-2fqr-mr3j-6wp8](https://github.com/advisories/GHSA-2fqr-mr3j-6wp8). Mi [PR #10858](https://github.com/github/advisory-database/pull/10858), integrado, añadió la referencia al parche de aiohttp. |
+| **Flipper Zero · Aplicaciones aceptadas** | Tres aportes integrados en el catálogo de Flipper Devices: [NFC QR Presenter #1107](https://github.com/flipperdevices/flipper-application-catalog/pull/1107), [WikiFlip #1086](https://github.com/flipperdevices/flipper-application-catalog/pull/1086) y [Mayan Decoder #1087](https://github.com/flipperdevices/flipper-application-catalog/pull/1087). |
+| **RF5 RECON · Extensión publicada** | Disponible en [Chrome Web Store](https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd) y [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/). |
 
 <br />
 
-## 02 / RF5 RECON
-
-<a href="https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/">
-  <img src="assets/rf5-recon.svg" width="100%" alt="RF5 RECON — Browser reconnaissance. Reconocimiento y herramientas de seguridad desde el navegador. Disponible para Chrome y Firefox." />
-</a>
-
-Mi extensión para agilizar el **reconocimiento y el flujo de evaluación de seguridad desde el navegador**. Un acceso directo a las herramientas del día a día del pentester.
-
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd"><img src="https://img.shields.io/badge/INSTALAR_EN_CHROME-C6F66B?style=for-the-badge&logo=googlechrome&logoColor=080D12" alt="Instalar RF5 RECON desde Chrome Web Store" /></a>
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/"><img src="https://img.shields.io/badge/INSTALAR_EN_FIREFOX-17232D?style=for-the-badge&logo=firefoxbrowser&logoColor=6BDED8" alt="Instalar RF5 RECON desde Firefox Add-ons" /></a>
-</p>
-
-<br />
-
-## 03 / BUILT IN THE LAB
-
-Herramientas y proyectos propios: del software de auditoría a la seguridad portátil.
+## 02 / PROYECTOS SELECCIONADOS
 
 <table>
 <tr>
@@ -66,136 +38,127 @@ Herramientas y proyectos propios: del software de auditoría a la seguridad port
 
 ### [Scan Titan ↗](https://github.com/RogerF5-Security/Scan-Titan)
 
-**RECON · AUTOMATION · REPORTING**
+**AUTOMATIZACIÓN DE AUDITORÍAS**
 
-Motor de auditoría en Python que conecta reconocimiento, pruebas web, herramientas externas y reportes de vulnerabilidades.
+Conecta reconocimiento, evaluación web y herramientas externas en un flujo de trabajo con reportes de vulnerabilidades. La documentación incluye arquitectura, metodología y cobertura.
 
 `Python` `CLI` `Security automation`
 
-[Explorar código](https://github.com/RogerF5-Security/Scan-Titan) · [Ver proyecto](https://rogerf5-security.github.io/Scan-Titan/)
+[Repositorio](https://github.com/RogerF5-Security/Scan-Titan) · [Arquitectura](https://github.com/RogerF5-Security/Scan-Titan/blob/main/docs/CORE_UPGRADE.md) · [Web del proyecto](https://rogerf5-security.github.io/Scan-Titan/)
 
 </td>
+<td width="50%" valign="top">
+
+### [RF5 RECON ↗](https://github.com/RogerF5-Security/RF5-RECON)
+
+**RECONOCIMIENTO DESDE EL NAVEGADOR**
+
+Reúne DNS, headers, políticas de cookies y recursos observados para iniciar una auditoría web. El código Chrome MV3 exporta indicios y evidencia en JSON para su validación.
+
+`JavaScript` `Browser extension` `Web security`
+
+[Código Chrome MV3](https://github.com/RogerF5-Security/RF5-RECON) · [Instalar en Chrome](https://chromewebstore.google.com/detail/ojibelahcinfehgdahcmamkinjjaabgd) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rf5-recon/)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [BLE Scout ↗](https://github.com/RogerF5-Security/BLE-Scout)
 
-**WIRELESS · EMBEDDED · FIELD LAB**
+**INVENTARIO BLE SIN PORTÁTIL**
 
-Inventario BLE pasivo para LILYGO T-Dongle-S3: radar en pantalla, evidencias en microSD y un panel web local.
+Firmware para LILYGO T-Dongle-S3: observación BLE pasiva, dispositivos deduplicados, radar en pantalla y evidencias CSV/HTML en microSD. Incluye un panel web local para consultar resultados.
 
 `C++` `ESP32-S3` `Bluetooth LE`
 
-[Explorar código](https://github.com/RogerF5-Security/BLE-Scout) · [Ver releases](https://github.com/RogerF5-Security/BLE-Scout/releases)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [WikiFlip ↗](https://github.com/RogerF5-Security/WikiFlip)
-
-**FLIPPER ZERO · KNOWLEDGE · OFFLINE**
-
-Diccionario de ciberseguridad para Flipper Zero. Términos en inglés y español, disponibles sin conexión.
-
-`C` `FAP` `Flipper Zero`
-
-[Explorar código](https://github.com/RogerF5-Security/WikiFlip)
+[Repositorio](https://github.com/RogerF5-Security/BLE-Scout) · [Firmware](https://github.com/RogerF5-Security/BLE-Scout/releases) · [Instalación](https://github.com/RogerF5-Security/BLE-Scout/blob/main/docs/INSTALACION.md)
 
 </td>
 <td width="50%" valign="top">
 
-### [Reportes Burp ↗](https://github.com/RogerF5-Security/Reportes-Burp)
+### [NFC QR Presenter ↗](https://github.com/RogerF5-Security/NFC_QR_Presenter)
 
-**BURP SUITE · EVIDENCE · WORKFLOW**
+**UNA TARJETA, DOS FORMAS DE COMPARTIR**
 
-Extensión para automatizar la documentación de vulnerabilidades y la generación de reportes desde Burp Suite.
+Comparte una URL, contacto o nota desde Flipper Zero mediante QR y NFC NDEF simultáneamente. Gestiona tarjetas en la SD e importa TXT/VCF. Incluye pruebas del almacenamiento y la codificación.
 
-`Python` `Burp Suite` `Reporting`
+`C` `NFC / NDEF` `Flipper Zero`
 
-[Explorar código](https://github.com/RogerF5-Security/Reportes-Burp)
+[Repositorio](https://github.com/RogerF5-Security/NFC_QR_Presenter) · [Aceptado en el catálogo](https://github.com/flipperdevices/flipper-application-catalog/pull/1107)
 
 </td>
 </tr>
 </table>
 
-<p align="right"><a href="https://github.com/RogerF5-Security?tab=repositories"><strong>Explorar todos los repositorios →</strong></a></p>
+**También en el laboratorio:** [WikiFlip](https://github.com/RogerF5-Security/WikiFlip), diccionario de ciberseguridad offline; [Mayan Decoder](https://github.com/RogerF5-Security/Mayan_decoder), conversión de numeración maya; [Reportes Burp](https://github.com/RogerF5-Security/Reportes-Burp), documentación de hallazgos desde Burp Suite.
+
+[Explorar todos los repositorios →](https://github.com/RogerF5-Security?tab=repositories)
 
 <br />
 
-## 04 / ARSENAL
+## 03 / DEL HALLAZGO AL REPORTE
 
-<p>
-  <img src="https://img.shields.io/badge/Python-17232D?style=flat-square&logo=python&logoColor=C6F66B" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-17232D?style=flat-square&logo=gnubash&logoColor=C6F66B" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-17232D?style=flat-square&logo=linux&logoColor=C6F66B" alt="Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-17232D?style=flat-square&logo=burpsuite&logoColor=6BDED8" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Docker-17232D?style=flat-square&logo=docker&logoColor=6BDED8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Flipper_Zero-17232D?style=flat-square&logo=flipperzero&logoColor=6BDED8" alt="Flipper Zero" />
-</p>
+**Reconocimiento → Validación → Evidencia → Remediación**
 
-| Área | Herramientas y plataformas |
+| Especialidad | Trabajo técnico |
 | :--- | :--- |
-| **Reconocimiento y análisis** | Nmap · Nuclei · Wapiti · Nikto · Wireshark |
-| **Seguridad web** | Burp Suite · OWASP ZAP · Caido |
-| **Pentesting y wireless** | Metasploit · Aircrack-ng · Kali Linux |
-| **Desarrollo** | Python · Qt · Bash · Git · Docker · Linux · Windows |
-| **Sistemas embebidos** | ESP32 / Espressif · M5Stack · Arduino |
+| **Pentesting y AppSec** | Evaluación de aplicaciones web, APIs, móvil e infraestructura. Validación de hallazgos y documentación de impacto y remediación. |
+| **Desarrollo de herramientas** | Automatización en Python, integración de herramientas CLI, interfaces gráficas, extensiones de navegador y generación de reportes. |
+| **Seguridad de IA** | Auditoría de chats y asistentes de IA, validación de hallazgos y documentación de evidencias. |
+| **Hardware y wireless** | Laboratorios con RF, BLE, Wi-Fi, NFC/RFID, HID y sistemas embebidos. |
 
-### Hardware, fuera de la terminal
+**Credenciales destacadas:** `C)PTE` · `C)PEH` · `CCEP` · `CAIS` · `Cisco Ethical Hacker`
 
-| Laboratorio | Dispositivos |
+[Credenciales en Credly](https://www.credly.com/users/roger-arana) · [Certificados y trayectoria](https://rogerf5-security.github.io/whoami/)
+
+<br />
+
+## 04 / HARDWARE EN LA MESA
+
+Del firmware a la pieza física. En [Doggie House](https://github.com/RogerF5-Security/Case-Evil_Doggie), desarrollado en el taller de **Kraken Tres D**, comparto una carcasa impresa en 3D para EvilDoggie con archivos STL, documentación de montaje y [visor 3D](https://rogerf5-security.github.io/Case-Evil_Doggie/).
+
+<details>
+<summary><strong>Stack y dispositivos del laboratorio</strong></summary>
+
+<br />
+
+**Desarrollo:** Python · C / C++ · JavaScript · Bash · Git · Docker · Linux · Windows.
+
+**Auditoría:** Burp Suite · OWASP ZAP · Caido · Nmap · Nuclei · Wireshark · Metasploit · Aircrack-ng.
+
+| Área | Dispositivos |
 | :--- | :--- |
 | **RF · NFC / RFID** | Flipper Zero · Chameleon Ultra |
 | **Wi-Fi · BLE** | WiFi Pineapple · Ubertooth One · M5StickC Plus 2 · Marauder |
-| **HID · USB** | Rubber Ducky |
-| **Investigación aplicada** | Laboratorios propios · Seguridad de ATM |
+| **HID · USB · Embebidos** | Rubber Ducky · ESP32 / Espressif · Arduino |
+
+</details>
 
 <br />
 
-## 05 / BEYOND THE TERMINAL
+## 05 / COMPARTIR LO APRENDIDO
 
-Comparto experimentos, herramientas y contenido práctico de ciberseguridad. También documento lo que ocurre cuando el código se encuentra con el hardware.
+Comparto herramientas, demostraciones y material práctico de seguridad ofensiva y hardware hacking.
 
-**Speaker en Pwn3dCON Community Sessions** con una introducción a Burp Suite, y **facilitador de Hardware Hacking en NicaSecurity Hub · TechClinics**. [Más sobre mi participación en la comunidad ↗](https://rogerf5-security.github.io/whoami/)
+**Speaker en Pwn3dCON Community Sessions** con una introducción a Burp Suite, y **facilitador de Hardware Hacking en NicaSecurity Hub · TechClinics**.
 
-| Participación | Actividad |
+| Participación | Evidencia |
 | :--- | :--- |
 | **FIT Galileo 2026 · Tallerista** | Taller de Flipper Zero. [Presentación y fotos](https://rogerf5-security.github.io/whoami/#comunidad). |
-| **Pwn3d Tools 2026 · Ponente** | Charla sobre herramientas de ciberseguridad y presentación de Scan Titan. [Ver evidencias](https://rogerf5-security.github.io/whoami/#comunidad). |
-| **Eventos · Asistente** | HackemCON 2022, PWN3D 2024, PWN3D 2026 y Ekoparty 2026. [Certificados](https://rogerf5-security.github.io/whoami/#evidencias). |
+| **Pwn3d Tools 2026 · Ponente** | Herramientas de ciberseguridad y presentación de Scan Titan. [Ver participación](https://rogerf5-security.github.io/whoami/#comunidad). |
 
-Para reportar una vulnerabilidad en mis proyectos, utiliza el canal privado del repositorio afectado. [Política de seguridad](SECURITY.md).
+[Trayectoria, eventos y certificados →](https://rogerf5-security.github.io/whoami/)
 
-¿Encontraste un enlace roto o una mejora de presentación? [Cómo proponer cambios y validar el perfil](CONTRIBUTING.md).
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://www.youtube.com/watch?v=h4qC4S8p7FY"><img src="https://img.youtube.com/vi/h4qC4S8p7FY/hqdefault.jpg" width="100%" alt="Ver Arduino + ChatGPT Melody en YouTube" /></a>
-  <br /><strong>Arduino + ChatGPT Melody</strong><br />
-  <sub>HARDWARE &amp; AUTOMATION</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="https://www.youtube.com/watch?v=ifDqZuoZDHc"><img src="https://img.youtube.com/vi/ifDqZuoZDHc/hqdefault.jpg" width="100%" alt="Ver Qué es Kali Purple en YouTube" /></a>
-  <br /><strong>¿Qué es Kali Purple?</strong><br />
-  <sub>CYBERSECURITY &amp; LEARNING</sub>
-</td>
-</tr>
-</table>
+Para reportar una vulnerabilidad en mis proyectos, utiliza el canal privado indicado en su política de seguridad. [Política de este repositorio](SECURITY.md) · [Cómo colaborar](CONTRIBUTING.md).
 
 <br />
 
 <div align="center">
 
-**Conectemos ideas. Construyamos herramientas.**
+**Código, laboratorio y comunidad.**
 
-<p>
-<a href="https://www.twitch.tv/rogerf5"><img src="https://img.shields.io/badge/TWITCH-17232D?style=for-the-badge&logo=twitch&logoColor=C6F66B" alt="Twitch" /></a>
-<a href="https://www.tiktok.com/@roger_f5"><img src="https://img.shields.io/badge/TIKTOK-17232D?style=for-the-badge&logo=tiktok&logoColor=EFF5EC" alt="TikTok" /></a>
-<a href="https://discord.gg/9Rp4dskE"><img src="https://img.shields.io/badge/DISCORD-17232D?style=for-the-badge&logo=discord&logoColor=6BDED8" alt="Discord" /></a>
-<a href="https://www.instagram.com/rogerf5"><img src="https://img.shields.io/badge/INSTAGRAM-17232D?style=for-the-badge&logo=instagram&logoColor=EFF5EC" alt="Instagram" /></a>
-</p>
+[YouTube](https://www.youtube.com/@ROGERF5) · [Twitch](https://www.twitch.tv/rogerf5) · [TikTok](https://www.tiktok.com/@roger_f5) · [Discord](https://discord.gg/9Rp4dskE) · [Instagram](https://www.instagram.com/rogerf5)
 
 <br />
 
